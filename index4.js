@@ -23,7 +23,7 @@ else if(rounded == 3){
 }
 
 else if(rounded == 4){
-  randomtext.textContent = "thanks for 10k views. i really appriciate the support this site got";
+  randomtext.textContent = "24k views! (last checked on mid december)";
 }
 
 else if(rounded == 5){
@@ -40,11 +40,11 @@ else if(rounded == 7){
 }
 
 else if(rounded == 8){
-  randomtext.textContent = "sitting at 44 games";
+  randomtext.textContent = "sitting at 51 games";
 }
 
 else if(rounded == 9){
-  randomtext.textContent = "did you know this site has around 450 lines of code";
+  randomtext.textContent = "did you know this site has around 600+ lines of code";
 }
 
 else if(rounded == 10){
