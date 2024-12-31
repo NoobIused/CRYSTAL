@@ -253,14 +253,17 @@
     <script src="index4.js"></script>
     <script src="index3.js"></script>
     <script src="index5.js"></script>
-    <script>
-          document.addEventListener('mousemove', (e) => {
-      const parallax = document.querySelector('.parallax');
-      const x = (e.clientX / window.innerWidth) * 30;
-      const y = (e.clientY / window.innerHeight) * 30;
-      parallax.style.transform = `translate(-${x}%, -${y}%)`;
-  });
-    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Crystal Site",
+        "description": "a nice site where ou can pay gxmes!",
+        "url": "https://crystalsite.netlify.app"
+      }
+      </script>
+      
 
   </body>
 </html>
