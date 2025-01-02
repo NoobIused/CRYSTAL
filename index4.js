@@ -40,7 +40,7 @@ else if(rounded == 7){
 }
 
 else if(rounded == 8){
-  randomtext.textContent = "sitting at 51 games";
+  randomtext.textContent = "sitting at 58 games";
 }
 
 else if(rounded == 9){
